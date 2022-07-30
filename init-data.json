@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "firstName": "Jenny Chan",
+      "surName0": "3 waterfoot road",
+      "surName1": "braEfterNamn",
+      "email": "jenny.chan@email.com",
+      "telephone": "333-962-7516"
+    },
+    {
+      "id": 2,
+      "firstName": "Jessica warren",
+      "surName0": "4 tall town",
+      "surName1": "braEfterNamn",
+      "email": "jessica.warren@email.com",
+      "telephone": "011-211-7516"
+    },
+    {
+      "id": 3,
+      "firstName": "Tony Frank",
+      "surName0": "Efternamenet",
+      "surName1": "braEfterNamn",
+      "email": "tony.frank@email.com",
+      "telephone": "788-962-7516"
+    },
+    {
+      "id": 4,
+      "firstName": "Jeremy Clark",
+      "surName0": "333 miltown manor",
+      "surName1": "braEfterNamn",
+      "email": "jeremy.clark@email.com",
+      "telephone": "011-962-111"
+    },
+    {
+      "id": 5,
+      "firstName": "Raymond Edwards",
+      "surName0": "99 blue acres",
+      "surName1": "braEfterNamn",
+      "email": "raymon.edwards@email.com",
+      "telephone": "3231-962-7516"
+    }
+  ]
